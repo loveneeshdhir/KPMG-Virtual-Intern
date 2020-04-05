@@ -1,12 +1,12 @@
 # KPMG-Virtual-Internship
 
-## Work I had done at the following role
+## Work I had done during the this period
 
-1. Data Quality Assessment
+1. Data Quality Assessment:
 Assessment of data quality and completeness in preparation for analysis.
 
-2. Data Insights
+2. Data Insights:
 Targeting high value customers based on customer demographics and attributes.
 
-3. Data Insights and Presentation
+3. Data Insights and Presentation:
 Using visualizations to present insights.
